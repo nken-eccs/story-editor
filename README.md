@@ -1,4 +1,4 @@
-# 📚️ Story Editor
+# 📚️ Story Editor ✨️
 
 ## 主な機能
 
